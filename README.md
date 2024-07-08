@@ -29,7 +29,7 @@
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
 
-# Hi there, I'm Oussama 👋
+# Hi there, I'm Juninho1980 👋
 
 <div align="center">
   <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
@@ -57,11 +57,6 @@
 </div>
 
 <br /><br />
-
-## About me
-I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
-My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
-I always want to learn new things.
 
 <br /><br />
 
@@ -121,7 +116,3 @@ I always want to learn new things.
   </a>
 </div>
 
-<!---
-Juninho1980/Juninho1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
